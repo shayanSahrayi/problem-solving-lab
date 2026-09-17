@@ -4,10 +4,10 @@
 
 **A structured, multi-language repository dedicated to daily programming exercises, algorithmic challenges, and clean-code implementations.**
 
-//[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-//[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-//[![Daily Updates](https://img.shields.io/badge/Updates-Daily%20%2F%20Active-brightgreen.svg)](#)
-//[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-orange.svg)](#)
+<> [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<> [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<> [![Daily Updates](https://img.shields.io/badge/Updates-Daily%20%2F%20Active-brightgreen.svg)](#)
+<> [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-orange.svg)](#)
 
 <p align="center">
   <a href="#-why-follow-this-repository">Why Follow?</a> •
